@@ -23,13 +23,13 @@ const CONFIG = {
     questions: {
         first: {
             text: "Do you like me?",                                    // First interaction
-            yesBtn: "maybe..yes..",                                             // Text for "Yes" button
+            yesBtn: "maybe yes",                                             // Text for "Yes" button
             noBtn: "nuh uh",                                               // Text for "No" button
             secretAnswer: "i don't like you, i LOVE you! ❤️"           // Secret hover message
         },
         second: {
             text: "how much do you love me?",                          // For the love meter
-            startText: "thhhhissss much!",                                   // Text before the percentage
+            startText: "sooo much!",                                   // Text before the percentage
             nextBtn: "next ❤️"                                         // Text for the next button
         },
         third: {
