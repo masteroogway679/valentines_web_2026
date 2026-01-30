@@ -1,6 +1,4 @@
-// Basic Information
-const CONFIG = {
-// Basic Information
+
 valentineName: "joel.."                    // Your Valentine's name
 pageTitle: "Will You Be My Valentine? 💝" // Browser tab title
 
