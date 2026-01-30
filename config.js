@@ -61,4 +61,4 @@ animations: {
     floatDistance: "50px",          // Sideways movement (30-70px)
     bounceSpeed: "0.5s",            // Bounce animation speed (0.3-0.7s)
     heartExplosionSize: 1.5         // Final heart explosion size (1.2-2.0)
-}
+};
