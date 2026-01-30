@@ -3,7 +3,7 @@
 // Basic Information
 
 const CONFIG = {
-valentineName: "joel..."                    // Your Valentine's name
+valentineName: "joel"                    // Your Valentine's name
 pageTitle: "will you pretty pretty please be my valentine? 💝" // Browser tab title
 
 // Floating Background Elements
@@ -62,5 +62,3 @@ animations: {
     bounceSpeed: "0.5s",            // Bounce animation speed (0.3-0.7s)
     heartExplosionSize: 1.5         // Final heart explosion size (1.2-2.0)
 }
-
-};
