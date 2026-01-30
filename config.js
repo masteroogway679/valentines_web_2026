@@ -23,19 +23,19 @@ const CONFIG = {
     questions: {
         first: {
             text: "Do you like me?",                                    // First interaction
-            yesBtn: "Yes",                                             // Text for "Yes" button
-            noBtn: "No",                                               // Text for "No" button
-            secretAnswer: "I don't like you, I LOVE you! ❤️"           // Secret hover message
+            yesBtn: "maybe..yes..",                                             // Text for "Yes" button
+            noBtn: "nuh uh",                                               // Text for "No" button
+            secretAnswer: "i don't like you, i LOVE you! ❤️"           // Secret hover message
         },
         second: {
-            text: "How much do you love me?",                          // For the love meter
-            startText: "This much!",                                   // Text before the percentage
-            nextBtn: "Next ❤️"                                         // Text for the next button
+            text: "how much do you love me?",                          // For the love meter
+            startText: "thhhhissss much!",                                   // Text before the percentage
+            nextBtn: "next ❤️"                                         // Text for the next button
         },
         third: {
             text: "Will you be my Valentine on February 14th, 2026? 🌹", // The big question!
-            yesBtn: "Yes!",                                             // Text for "Yes" button
-            noBtn: "No"                                                 // Text for "No" button
+            yesBtn: "yes! omg",                                             // Text for "Yes" button
+            noBtn: "still nuh uh"                                                 // Text for "No" button
         }
     },
 
@@ -50,8 +50,8 @@ const CONFIG = {
     // Messages that appear after they say "Yes!"
     celebration: {
         title: "yay!! smoooooch...you are mine now... 🎉💝💖💝💓",
-        message: "now come get your gift, a big warm hug and a huge kiss!",
-        emojis: "🎁💖🤗💝💋❤️💕"  // These will bounce around
+        message: "now come get your gift: a big warm hug and a huge kiss!",
+        emojis: "🏹💌😽🥰🌷"  // These will bounce around
     },
 
     // Color scheme for the website
