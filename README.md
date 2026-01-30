@@ -27,45 +27,45 @@ Here's what you can customize in `config.js`:
 ```javascript
 // Basic Information
 valentineName: "    "                    // Your Valentine's name
-pageTitle: "Will You Be My Valentine? 💝" // Browser tab title
+pageTitle: "will you pretty pretty please be my valentine? 💝" // Browser tab title
 
 // Floating Background Elements
 floatingEmojis: {
-    hearts: ['❤️', '💖', '💝', '💗', '💓'],  // Heart emojis in background
-    bears: ['🧸', '🐻']                       // Bear emojis in background
+    hearts: ['😽', '🏹', '💕', '😵‍💫', '🩷'],  // Heart emojis in background
+    bears: ['🧸', '🍫']                       // Bear emojis in background
 }
 
 // Questions and Buttons
 questions: {
     first: {
-        text: "Do you like me?",                   // First question
-        yesBtn: "Yes",                             // Yes button text
-        noBtn: "No",                               // No button text
-        secretAnswer: "I don't like you, I love you! ❤️"  // Hidden message
+        text: "do you like me?",                   // First question
+        yesBtn: "yes..",                             // Yes button text
+        noBtn: "nuh uh...",                               // No button text
+        secretAnswer: "i don't like you...i literally love you! ❤️"  // Hidden message
     },
     second: {
-        text: "How much do you love me?",          // Second question
-        startText: "This much!",                   // Text before percentage
-        nextBtn: "Next ❤️"                         // Next button text
+        text: "now how much do you love me?",          // Second question
+        startText: "thhhiiissss much!",                   // Text before percentage
+        nextBtn: "next ❤️"                         // Next button text
     },
     third: {
-        text: "Will you be my Valentine...?",      // Final question
-        yesBtn: "Yes!",                            // Yes button text
-        noBtn: "No"                                // No button text
+        text: "will you pretty please 🐝 my valentine...?",      // Final question
+        yesBtn: "yyyyessss!",                            // Yes button text
+        noBtn: "still no 🙄"                                // No button text
     }
 }
 
 // Love Meter Messages
 loveMessages: {
-    extreme: "WOOOOW You love me that much?? 🥰🚀💝",  // Shows above 5000%
-    high: "To infinity and beyond! 🚀💝",              // Shows above 1000%
-    normal: "And beyond! 🥰"                           // Shows above 100%
+    extreme: "WOOOOW You love me that much??!! 🥰🚀💝",  // Shows above 5000%
+    high: "to infinity and beyond! 🚀💝",              // Shows above 1000%
+    normal: "and beyond! 🥰"                           // Shows above 100%
 }
 
 // Final Celebration
 celebration: {
-    title: "Yay! I'm the luckiest person...",     // Celebration title
-    message: "Now come get your gift...",          // Celebration message
+    title: "yyyyyyayyy! i'm the luckiest person everrrr!",     // Celebration title
+    message: "now come get your gift...",          // Celebration message
     emojis: "🎁💖🤗💝💋❤️💕"                        // Celebration emojis
 }
 
