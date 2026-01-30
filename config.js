@@ -58,5 +58,5 @@ animations: {
     floatDistance: "50px",
     bounceSpeed: "0.5s",
     heartExplosionSize: 1.5
-}
+    }
 };
