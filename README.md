@@ -26,7 +26,7 @@ Note: Make sure you're logged into your GitHub account. If you don't have one, y
 Here's what you can customize in `config.js`:
 ```javascript
 // Basic Information
-valentineName: "joel"                    // Your Valentine's name
+valentineName: "_____"                    // Your Valentine's name
 pageTitle: "will you pretty pretty please be my valentine? 💝" // Browser tab title
 
 // Floating Background Elements
