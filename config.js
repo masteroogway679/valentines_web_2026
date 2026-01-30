@@ -3,7 +3,7 @@
 // Basic Information
 
 const CONFIG = {
-valentineName: "_____"                    // Your Valentine's name
+valentineName: "joel..."                    // Your Valentine's name
 pageTitle: "will you pretty pretty please be my valentine? 💝" // Browser tab title
 
 // Floating Background Elements
